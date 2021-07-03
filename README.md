@@ -12,7 +12,7 @@
   <img align="center" alt="Matheus Aurélio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus Aurélio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Matheus Aurélio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Matheus Aurélio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/MySQL/MySQL-plain.svg">
+  <img align="center" alt="Matheus Aurélio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
   
   ##
