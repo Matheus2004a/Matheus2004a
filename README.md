@@ -1,5 +1,5 @@
-### Meu nome é Matheus Aurélio, tenho 16 anos.
-### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
+#### Meu nome é Matheus Aurélio, tenho 16 anos.
+#### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
 
 # Olá, eu sou o Matheus Aurélio
 
