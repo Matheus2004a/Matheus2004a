@@ -1,8 +1,6 @@
 #### Meu nome é Matheus Aurélio, tenho 16 anos.
 #### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
 
-# Olá, eu sou o Matheus Aurélio
-
 <div>
   <a href="https://github.com/Matheus2004a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2004a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
