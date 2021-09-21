@@ -2,6 +2,9 @@
 #### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
 #### Sou programador iniciante e atualmente estou fazendo Técnico em Desenvolvimento de Sistemas na Etec, buscando evoluir e conhecer afundo essa área de tecnologia.
 
+### - Eu recentemente estou estudando bastante JavaScript, um pouco de React e React Native.
+### - Meu foco no momento é me especializar em tecnologias Front-End, mas estou aberto a sempre aprender coisas novas.
+
 <div>
   <a href="https://github.com/Matheus2004a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2004a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
