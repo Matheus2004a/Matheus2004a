@@ -1,6 +1,6 @@
-### Meu nome é Matheus Aurélio, tenho 16 anos.
-### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
-### Sou programador iniciante e atualmente estou fazendo Técnico em Desenvolvimento de Sistemas na Etec, buscando evoluir e conhecer afundo essa área de tecnologia.
+#### Meu nome é Matheus Aurélio, tenho 16 anos.
+#### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
+#### Sou programador iniciante e atualmente estou fazendo Técnico em Desenvolvimento de Sistemas na Etec, buscando evoluir e conhecer afundo essa área de tecnologia.
 
 <div>
   <a href="https://github.com/Matheus2004a">
