@@ -1,8 +1,10 @@
-#### Meu nome é Matheus Aurélio, tenho 16 anos.
-#### 💻 Estudante em Desenvolvimento de Sistemas na Etec em SJC.
-#### Sou programador iniciante e atualmente estou fazendo Técnico em Desenvolvimento de Sistemas na Etec, buscando evoluir e conhecer afundo essa área de tecnologia.
+## Sejam bem-vindos ao meu perfil !!!
+#
+### Olá meu nome é Matheus Aurélio, tenho 17 anos.
+### Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Etec em SJC 👨🏻‍💻. 
+### Sou programador Front-End e recentemente tenho dedicado bastante os estudos à essa área, buscando evoluir e conhecer mais afundo sobre tecnologia.
 
-- Eu recentemente estou estudando bastante JavaScript, um pouco de React e React Native.
+- Recentemente estou estudando bastante JavaScript, mas também tendo um pouco de contato com React e React Native.
 - Meu foco no momento é me especializar em tecnologias Front-End, mas estou aberto a sempre aprender coisas novas.
 
 <div>
@@ -23,7 +25,7 @@
   <img align="center" alt="Matheus Aurélio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
   
-  ##
+##
  
 <div> 
   <a href="https://www.instagram.com/matheus.aaurelio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
