@@ -4,6 +4,16 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Etec em SJC
 Sou programador Front-End e recentemente tenho dedicado bastante os estudos à essa área, buscando evoluir e conhecer mais afundo sobre tecnologia.
 - Recentemente estou estudando bastante JavaScript, mas também tendo um pouco de contato com React e React Native.
 - Meu foco no momento é me especializar em tecnologias Front-End, mas estou aberto a sempre aprender coisas novas.
+
+Para quem quiser entrar em contato comigo só me chamar por meio dos links abaixo:
+
+<div>
+<a href="https://www.instagram.com/matheus.aaurelio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:matheusaurelio2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-aur%C3%A9lio-3590a9207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.facebook.com/matheus.a.pontes" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077F8?style=for-the-badge&logo=facebook&logoColor=white"></a>
+</div>  
+<br>
 <div>
   <a href="https://github.com/Matheus2004a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2004a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,11 +35,7 @@ Sou programador Front-End e recentemente tenho dedicado bastante os estudos à e
 ##
  
 <div> 
-  <a href="https://www.instagram.com/matheus.aaurelio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:matheusaurelio2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-aur%C3%A9lio-3590a9207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.facebook.com/matheus.a.pontes" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077F8?style=for-the-badge&logo=facebook&logoColor=white"></a> 
- 
+  
   ![Snake animation](https://github.com/Matheus2004a/Matheus2004a/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
