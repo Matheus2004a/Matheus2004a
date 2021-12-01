@@ -5,7 +5,7 @@ Sou programador Front-End e recentemente tenho dedicado bastante os estudos à e
 - Recentemente estou estudando bastante JavaScript, mas também tendo um pouco de contato com React e React Native.
 - Meu foco no momento é me especializar em tecnologias Front-End, mas estou aberto a sempre aprender coisas novas.
 
-Para quem quiser entrar em contato comigo só me chamar por meio dos links abaixo:
+## Conecte - se comigo abaixo:
 
 <div>
 <a href="https://www.instagram.com/matheus.aaurelio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
