@@ -20,7 +20,7 @@ Sou programador Front-End e recentemente tenho dedicado bastante os estudos à e
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2004a&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-  ## Tecnologias que conheço e utilizo
+  ## Tecnologias e ferramentas que conheço e utilizo 🛠️
 <div>
   <img align="center" alt="Matheus Aurélio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus Aurélio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
