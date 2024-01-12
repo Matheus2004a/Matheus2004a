@@ -1,9 +1,10 @@
 ## Sejam bem-vindos ao meu perfil !!!
 
-Olá meu nome é Matheus Aurélio, tenho 18 anos.
+Olá meu nome é Matheus Aurélio, tenho 19 anos.
 
-- 🎓 Atualmente formado como Técnico em Desenvolvimento de Sistemas na Etec em SJC. 
-- Sou programador Front-End e recentemente tenho dedicado bastante os estudos à essa área.
+- 🎓 Atualmente formado como Técnico em Desenvolvimento de Sistemas na Etec em SJC.
+- Estou cursando o 3º semestre de ADS na UNIP.
+- Sou programador Front-End e recentemente tenho dedicado bastante os estudos à essa área, mas ultimamente também tenho estudado Back-End pra me aprimorar mais em desenvolver projetos FullStack.
 - Recentemente estou estudando bastante JavaScript, mas também tive um pouco de contato com React e React Native.
 - Meu foco no momento é me especializar em tecnologias Front-End, mas estou aberto a sempre aprender coisas novas.
 
